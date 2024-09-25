@@ -2,7 +2,7 @@
 <text>Enter npm install</text>
 
 <h1>Open Model Folder and Enter Type below 3 commands one by one in Model folder's terminal</h1>
-<text>pip install -U scikit-learn</text><br/>
+<text>pip install scikit-learn</text><br/>
 <text>pip install joblib</text><br/>
 <text>pip install Flask</text><br/>
 
